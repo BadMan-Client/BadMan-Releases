@@ -1,6 +1,6 @@
 #include "NoSlowDown.h"
 
-NoSlowDown::NoSlowDown() : IModule(0, Category::MOVEMENT, "NoSlowDown But Working (developed by Vic)") {
+NoSlowDown::NoSlowDown() : IModule(0, Category::MOVEMENT, "NoSlowDown But Working") {
 }
 
 NoSlowDown::~NoSlowDown() {
