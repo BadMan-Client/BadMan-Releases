@@ -1,9 +1,9 @@
-# BadMan-Releases
-
 <p align="center">
-  <img src="https://github.com/BadMan-Client/BadMan-Releases/blob/main/BadManMCBE.png"/>
+<img src="https://github.com/BadMan-Client/BadMan-Releases/blob/main/BadManMCBE.png"/>
 </p>
 <br/>
+
+# BadMan-Releases
 
 **BadMan Discord Server https://discord.gg/VDpfHTBBVG**
 
