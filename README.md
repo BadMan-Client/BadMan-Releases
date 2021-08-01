@@ -1,5 +1,10 @@
 # BadMan-Releases
 
+<p align="center">
+  <img src="https://github.com/BadMan-Client/BadMan-Releases/main/BadManMCBE.png"/>
+</p>
+<br/>
+
 **BadMan Discord Server https://discord.gg/VDpfHTBBVG**
 
 **BadMan Client Release Page**
