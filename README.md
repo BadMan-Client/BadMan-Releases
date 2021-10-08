@@ -5,7 +5,7 @@
 
 # BadMan-Releases
 
-**BadMan Discord Server https://discord.gg/VDpfHTBBVG**
+**BadMan Discord Server https://discord.gg/4bApScaqnm**
 
 **BadMan Client Release Page**
 
