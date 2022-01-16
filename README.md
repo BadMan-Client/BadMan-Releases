@@ -5,7 +5,7 @@
 
 # BadMan-Releases
 
-**BadMan Discord Server https://discord.gg/4bApScaqnm**
+**BadMan Discord Server TERMINATED**
 
 **BadMan Client Release Page**
 
@@ -14,3 +14,5 @@
 **BadMan** is a fork of the Horion MCBE Utility Mod.
 
 **Credits** - Horion Developers for allowing use of the public horion source code and Brendon for making the **Injector.**
+
+**IMPORTANT** - For the time being BadMan has stopped development and wont see an update for a long time, thanks for the support and ideas up till now.
