@@ -5,7 +5,7 @@
 
 # BadMan-Releases
 
-**BadMan Discord Server TERMINATED**
+**Offical BadMan Discord Server TERMINATED**
 
 **BadMan Client Release Page**
 
@@ -16,3 +16,5 @@
 **Credits** - Horion Developers for allowing use of the public horion source code and Brendon for making the **Injector.**
 
 **IMPORTANT** - For the time being BadMan has stopped development and wont see an update for a long time, thanks for the support and ideas up till now.
+
+**Unoffical BadMan Discord: https://discord.gg/hVpS9D8w2z**(Note, do not ask for help in this server as the client itself is no longer supported by the developers)
