@@ -4,7 +4,8 @@
 <br/>
 <h1 align="center">BadMan-Releases</h1>
 <p>
-  <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/BadMan-Client/BadMan-Releases">  
+  <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/BadMan-Client/BadMan-Releases">
+  <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/BadMan-Client/BadMan-Releases/total">
 </p>
 
 
