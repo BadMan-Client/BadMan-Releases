@@ -2,8 +2,12 @@
 <img src="https://github.com/BadMan-Client/BadMan-Releases/blob/main/BadManMCBE.png"/>
 </p>
 <br/>
+<h1 align="center">BadMan-Releases</h1>
+<p>
+  <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/BadMan-Client/BadMan-Releases">  
+</p>
 
-# BadMan-Releases
+
 
 **Offical BadMan Discord Server TERMINATED**
 
