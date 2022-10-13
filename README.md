@@ -22,4 +22,4 @@
 
 **IMPORTANT** - For the time being BadMan has stopped development and wont see an update for a long time, thanks for the support and ideas up till now.
 
-**Unoffical BadMan Discord:** https://discord.gg/hVpS9D8w2 (Note, do not ask for help in this server as the client itself is no longer supported by the developers)
+**Unoffical BadMan Discord:** https://discord.gg/gp6JpvDfQ7 (Note, do not ask for help in this server as the client itself is no longer supported by the developers)
