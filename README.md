@@ -16,10 +16,12 @@
 
 **BadMan** is a MCBE Utility Mod for the Windows 10 Edition, this tool is meant for enhancing users gameplay. We do not condone nor are we responsible for illegitimate use by our users.
 
-**BadMan** is a fork of the Horion MCBE Utility Mod.
+**BadMan** is a fork of the Horion MCBE Utility Mod, it was declared a "must skid" by Japanese pasters.
 
-**Credits** - Horion Developers for allowing use of the public horion source code and Brendon for making the **Injector.**
+**Developers** OldGreggo5081, Turakan and Weedelbhoy1
+
+**Credits** - Horion Developers for allowing use of the public horion source code, Brendon for making the Injector.
 
 **IMPORTANT** - For the time being BadMan has stopped development and wont see an update for a long time, thanks for the support and ideas up till now.
 
-**Unoffical BadMan Discord:** https://discord.gg/gp6JpvDfQ7 (Note, do not ask for help in this server as the client itself is no longer supported by the developers)
+**Unoffical BadMan Discord:** https://discord.gg/c2h2jjnnk9 (Note, do not ask for help in this server as the client itself is no longer supported by the developers)
